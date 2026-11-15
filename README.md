@@ -1,6 +1,6 @@
 # Backend · plan de estudio al 18 de noviembre de 2026
 
-Sitio de estudio para el examen de Backend de Aplicaciones de la UTN FRC: lecturas dirigidas, ejercicios, checklist y temporizadores. El plan actualizado para el domingo 15 parte del preparcial de juegos de mesa: colecciones, validación y CSV, evolución por herencia, servicio y un simulacro de 45 minutos. Lunes y martes quedan para corregir y repetir después del trabajo. JPA se conserva como material de reserva hasta confirmar que se evalúa en este examen.
+Sitio de estudio para el examen de Backend de Aplicaciones de la UTN FRC: lecturas dirigidas, ejercicios, checklist y temporizadores. El plan actualizado para el domingo 15 comienza con el ejercicio pendiente de POO y CSV del bloque 3. Sigue con colecciones, el preparcial de juegos de mesa, la evolución por herencia, parser y servicio. La práctica de 45 minutos se hace cuando esa base esté lista; lunes y martes quedan para completar, corregir y repetir después del trabajo. JPA se conserva como material de reserva hasta confirmar que se evalúa en este examen.
 
 **Sitio publicado:** https://martinandreani.github.io/backend-rumbo-al-10/
 
